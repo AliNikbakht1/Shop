@@ -1,0 +1,74 @@
+[
+  {
+    "id": "1",
+    "img": "https://i.pinimg.com/474x/7b/7c/d3/7b7cd3cee8b7924b810d9c2c644e3de1.jpg",
+    "title": "Acc Art",
+    "description": "Fashion",
+    "price": 120,
+    "colors": ["red", "blue", "white", "black", "grey", "green"],
+    "size": ["S", "M", "XL"]
+  },
+  {
+    "id": "2",
+    "img": "https://i.pinimg.com/474x/75/03/e2/7503e20ec347cef2f3ce6577131b559d.jpg",
+    "title": "Future",
+    "description": "Fashion",
+    "price": 120,
+    "colors": ["red", "blue", "white", "grey", "green"],
+    "size": ["S", "L", "XL"]
+  },
+  {
+    "id": "3",
+    "img": "https://i.pinimg.com/474x/59/36/6a/59366ae15c19fbf5ce4122468b72755e.jpg",
+    "title": "Minimal",
+    "description": "Fashion",
+    "price": 120,
+    "colors": ["red", "blue", "white"],
+    "size": ["S", "M", "L"]
+  },
+  {
+    "id": "4",
+    "img": "https://i.pinimg.com/474x/46/29/ad/4629adff0366ed8a45f74513e638e19d.jpg",
+    "title": "Cv Art",
+    "description": "Fashion",
+    "price": 120,
+    "colors": ["red", "blue", "grey", "green"],
+    "size": ["S"]
+  },
+  {
+    "id": "5",
+    "img": "https://i.pinimg.com/474x/7b/7c/d3/7b7cd3cee8b7924b810d9c2c644e3de1.jpg",
+    "title": "Club Art",
+    "description": "Fashion",
+    "price": 120,
+    "colors": ["red", "white", "black", "grey", "green"],
+    "size": ["M"]
+  },
+  {
+    "id": "6",
+    "img": "https://i.pinimg.com/474x/59/36/6a/59366ae15c19fbf5ce4122468b72755e.jpg",
+    "title": "High Art",
+    "description": "Fashion",
+    "price": 120,
+    "colors": ["red"],
+    "size": ["S", "M", "XL"]
+  },
+  {
+    "id": "7",
+    "img": "https://i.pinimg.com/474x/46/29/ad/4629adff0366ed8a45f74513e638e19d.jpg",
+    "title": "Nap Art",
+    "description": "Fashion",
+    "price": 120,
+    "colors": ["red", "blue", "grey", "green"],
+    "size": ["M", "L", "XL"]
+  },
+  {
+    "id": "8",
+    "img": "https://i.pinimg.com/474x/7b/7c/d3/7b7cd3cee8b7924b810d9c2c644e3de1.jpg",
+    "title": "So Art",
+    "description": "Fashion",
+    "price": 120,
+    "colors": ["white", "black", "grey", "green"],
+    "size": ["S", "M", "L", "XL"]
+  }
+]
