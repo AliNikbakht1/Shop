@@ -6,8 +6,6 @@ export default function shop() {
       <Navbar />
       <div>
         <h1>SHOP</h1>
-        <h1>Shop in dev branch</h1>
-        
       </div>
     </div>
   );
