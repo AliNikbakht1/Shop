@@ -6,6 +6,7 @@ export default function shop() {
       <Navbar />
       <div>
         <h1>SHOP</h1>
+        
       </div>
     </div>
   );
