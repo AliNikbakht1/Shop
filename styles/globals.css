@@ -201,10 +201,9 @@ body {
 }
 
 .nav-menu {
-  border-radius: 20px;
-  background-color: rgb(247, 247, 247);
+  background-color: rgb(90, 90, 90);
   height: 100vh;
-  width: 75%;
+  width: 50%;
   display: flex;
   justify-content: center;
   position: fixed;
@@ -224,17 +223,23 @@ body {
   justify-content: start;
   align-items: center;
   list-style: none;
-  height: 60px;
+  height: 4rem;
+  padding: 5px 5px;
+  margin: 10px 10px;
+  color: gray;
 }
 
 .menu-text a {
   text-decoration: none;
-  font-size: 20px;
+  width: 100%;
+  font-size: 15px;
   color: black;
   display: flex;
   align-items: center;
-  padding: 10px 20px;
-  border-radius: 5px;
+  padding: 20px 20px;
+  margin: 1px 1px;
+  border-bottom: rgb(196, 196, 196) .1px solid;
+  color: rgb(243, 243, 243);
 }
 
 .nav-menu-items {
@@ -245,13 +250,16 @@ body {
 .navbar-toggle {
   width: 100%;
   display: flex;
-  justify-content: start;
-  align-items: center;
-  text-align: left;
+  justify-content: right;
+  align-items: right;
+  text-align: right;
+  padding: 5px 20px;
+  font-size: 20px;
+  color: rgb(243, 243, 243);
 }
 
 span {
-  margin-left: 16px;
+  margin-left: 10px;
 }
 .close-icon {
   margin-top: 20px;
@@ -262,3 +270,10 @@ span {
   place-items: center;
   margin-right: 30px;
 }
+
+
+.cart-item{
+  color: gray;
+  letter-spacing: 1px;
+}
+

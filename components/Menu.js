@@ -1,5 +1,4 @@
 import React from "react";
-import Link from "next/link";
 import { HiMenu } from "react-icons/hi";
 import { RiCloseFill } from "react-icons/ri";
 import { useState } from "react";

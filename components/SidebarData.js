@@ -40,16 +40,4 @@ export const SidebarData = [
     icon: <GiArmoredPants />,
     cName: "menu-text",
   },
-  {
-    title: "Shoes",
-    path: "/Shoes",
-    icon: <GiConverseShoe />,
-    cName: "menu-text",
-  },
-  {
-    title: "Jeans",
-    path: "/Jeans",
-    icon: <GiArmoredPants />,
-    cName: "menu-text",
-  },
 ];

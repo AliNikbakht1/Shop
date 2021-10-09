@@ -14,7 +14,7 @@ export default function navbar() {
         <Col span={6}><div className="navbar-icon"><Link href="/"><RiHome3Fill/></Link></div></Col>
         <Col span={6}><div className="navbar-icon"><BiCloset/></div></Col>
         <Col span={6}><div className="navbar-icon"><Link href="/Shopping"><MdShoppingCart/></Link></div></Col>
-        <Col span={6}><div className="navbar-icon"><BiUserCircle/></div></Col>
+        <Col span={6}><div className="navbar-icon"><Link href="/Login"><BiUserCircle/></Link></div></Col>
       </Row>
     </div>
   );
