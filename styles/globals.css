@@ -238,7 +238,7 @@ body {
   align-items: center;
   padding: 20px 20px;
   margin: 1px 1px;
-  border-bottom: rgb(196, 196, 196) .1px solid;
+  border-bottom: rgb(196, 196, 196) 0.1px solid;
   color: rgb(243, 243, 243);
 }
 
@@ -271,9 +271,19 @@ span {
   margin-right: 30px;
 }
 
-
-.cart-item{
+.cart-item {
   color: gray;
   letter-spacing: 1px;
 }
 
+.login-form {
+  max-width: 300px;
+}
+.login-form-forgot {
+  float: right;
+}
+
+.login-form-button {
+  width: 100%;
+  max-width: 300px;
+}
